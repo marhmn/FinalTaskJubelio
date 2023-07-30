@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"755815747cc3348933c3daa54de3b991","name":"jubelio Login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
+{"total":2,"items":[{"uid":"a4ab9e0732af6feec8f834b664dbe1e9","name":"jubelio add stock Inventory","statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1}},{"uid":"755815747cc3348933c3daa54de3b991","name":"jubelio Login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

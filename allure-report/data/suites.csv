@@ -1,3 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Jul 30 02:45:12 WIB 2023","Sun Jul 30 02:45:20 WIB 2023","8308","","jubelio Login","","","","should login with valid credentials",""
-"passed","Sun Jul 30 02:45:20 WIB 2023","Sun Jul 30 02:45:25 WIB 2023","4827","","jubelio Login","","","","should login with invalid credentials",""
+"passed","Sun Jul 30 15:17:07 WIB 2023","Sun Jul 30 15:17:20 WIB 2023","12438","","jubelio Login","","","","should login with valid credentials",""
+"broken","Sun Jul 30 15:17:25 WIB 2023","Sun Jul 30 15:17:45 WIB 2023","19411","","jubelio add stock Inventory","","","","should add stock",""
+"passed","Sun Jul 30 15:17:20 WIB 2023","Sun Jul 30 15:17:25 WIB 2023","5742","","jubelio Login","","","","should login with invalid credentials",""

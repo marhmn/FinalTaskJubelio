@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "#root > div > div > div.container.main-box.shadow.rad10 > div > div.col-md-4.right-column > div > form > div:nth-child(1) > div > input"
+}
